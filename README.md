@@ -7,7 +7,17 @@
 <img src="https://i.imgur.com/vEqbemd.png">
 <img src="https://i.imgur.com/4pcOAGt.png">
 <img src="https://i.imgur.com/K99Xcvm.png">
-<img src="https://i.imgur.com/Srv9WAt.png">
+<img src="https://i.imgur.com/Srv9WAt.png" 
+style="@keyframes myfirst
+{
+0%   {bottom:0px;}
+20%   {bottom:3px;}
+40%   {bottom:13px;}
+60%   {bottom:30px;}
+80%   {bottom:40px;}
+100%   {bottom:43px;}
+}
+animation:myfirst 1s linear 1s infinite alternate">
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -20,5 +30,7 @@
 <img width="1604" alt="" src="https://i.imgur.com/oipG4m2.gif">
 
 <img width="1604" height="200" alt="" src="https://i.imgur.com/WR8MhBF.jpg">
+
+<img width="1604" height="600" alt="" src="https://i.imgur.com/mIUaRze.gif">
 
 </div>
