@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**DanielElam/DanielElam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://i.imgur.com/cpO3XYZ.png"> |  <img width="1604" src="https://i.imgur.com/gbZ03bp.gif">|<img width="1604" src="https://i.imgur.com/uwhCeXu.jpg">|
 
-Here are some ideas to get you started:
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://i.imgur.com/IUlDDk2.png"> |  <img width="1604" src="https://i.imgur.com/VDKMZcX.png">|<img width="1604" src="https://i.imgur.com/fVDxhyj.png">|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1604" alt="" src="https://i.imgur.com/oipG4m2.gif">
+
+<img width="1604" height="200" alt="" src="https://i.imgur.com/WR8MhBF.jpg">
+
+</div>
