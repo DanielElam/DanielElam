@@ -54,6 +54,6 @@
 <h2 style="text-align: center; font-weight: 300;">EDUCATION</h2>
 
 
-| Certificate of Higher Education (Mathematics, Computing & IT)  | BEng. Software Engineering |
+| Certificate of Higher Education (Mathematics, Computing & IT)  | BEng. Software Engineering (studying) |
 | ------------- | ------------- |
-| 2018-2019 Open University  | 2019-2021 (current) Edinburgh Napier University  |
+| 2018-2019 Open University  | 2019-2022 Edinburgh Napier University  |
