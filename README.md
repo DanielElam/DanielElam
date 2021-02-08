@@ -1,3 +1,6 @@
+
+<img src="https://i.imgur.com/B5hFSdE.png"/>
+
 <h2 style="text-align: center; font-weight: 300;">PROJECTS</h2>
 
 <p>
