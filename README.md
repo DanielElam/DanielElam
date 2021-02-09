@@ -55,7 +55,7 @@
 </p>
 
 <p>
-<span align="left"><b>Precision Photometrics Ltd.</b> <i>(2020)</i> </span><br/>
+<span align="left"><b>Precision Photometrics Ltd.</b> <i>(2021)</i> </span><br/>
     <ul>
        <li>Took over development of firmware for double monochromator, implemented support for I2C to communicate with Tic Stepper Motor</li>
        <li>Added support for Tic Maestro Servo Controller</li>
