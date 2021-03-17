@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/buqY2lR.png"/>
+<img src="https://i.imgur.com/VYEgWhz.png"/>
 
 <h2 style="text-align: center; font-weight: 300;">PROJECTS</h2>
 
